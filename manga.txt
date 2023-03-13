@@ -1,0 +1,6 @@
+manga 
+Chapter
+managaChapter
+ChapterPics
+User
+UserManga
